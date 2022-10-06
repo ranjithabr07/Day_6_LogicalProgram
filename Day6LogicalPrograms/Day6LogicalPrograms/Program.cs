@@ -14,3 +14,7 @@ ran4.PrimeNumber();
 
 ReverseNumberProblem ran5 = new ReverseNumberProblem();
 ran5.ReverseNumber();
+
+Console.Write("How many numbers you wants to generate: ");
+int N = Convert.ToInt32(Console.ReadLine());
+CouponNumbersProblem.CouponNumber(N);
