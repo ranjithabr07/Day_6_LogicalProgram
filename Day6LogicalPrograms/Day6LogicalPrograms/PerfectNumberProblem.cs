@@ -8,6 +8,7 @@ namespace Day6LogicalPrograms
 {
     internal class PerfectNumberProblem
     {
+        //A number is a perfect number if is equal to sum of its proper divisors
         public void PerfectNumber()
         {
             int num, n;
