@@ -11,3 +11,6 @@ ran2.PerfectNumber();
 
 PrimeNumberProblem ran4 = new PrimeNumberProblem();
 ran4.PrimeNumber();
+
+ReverseNumberProblem ran5 = new ReverseNumberProblem();
+ran5.ReverseNumber();
